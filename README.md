@@ -11,7 +11,6 @@ WonderWave Travels is a responsive website which offers the travellers with some
 ## Project Overview
 The WonderWave Travels is a responsive website which offers the travellers with the best India Tour packages, where they can tour almost every part of India with the hand-picked packages given in the website. The website is built using HTML, CSS, and JavaScript during our construct week, i.e. in the span of 5 days, and we've tried to incorporate various functionalities to it. This project is done by quantum-script-1432 team and the information on the team members are given below.
 
-## Live Deployed Link <a href="https://software-kalaakar-5678.netlify.app/">EduSprint</>
 
 - **Mohd Asif** -  fw28_307
 - **Mohd Khalid** -  fw28_112
