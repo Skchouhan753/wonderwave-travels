@@ -13,9 +13,6 @@ The WonderWave Travels is a responsive website which offers the travellers with 
 
 ## Live Deployed Link <a href="https://software-kalaakar-5678.netlify.app/">EduSprint</>
 
-## Team Members
-The project was developed collaboratively by the following team members:
-
 - **Mohd Asif** -  fw28_307
 - **Mohd Khalid** -  fw28_112
 - **Rohit Yadav** -  fw28_206
